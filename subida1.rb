@@ -31,18 +31,18 @@ b = 0
 
 
 
-jfk
+queen
 
 
-pe
+acdc
 
 
 sleep (sample_duration guitar_col) * 4
 
-jfkjunior
+queen2
 
 
-play test
+play ye
 
 set :mortem, true
 
@@ -61,7 +61,7 @@ set :mortem, false
 set :kill, false
 
 
-pe2
+acdc2
 cottonJoe
 
 sleep (sample_duration guitar_col) * 6
